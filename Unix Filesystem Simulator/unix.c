@@ -5,9 +5,6 @@
 
 /*
  * Name: William Chung
- * ID: Wchung1
- * UID: 116609968
- * Discusion Number:0101
  * 
  * This program represents a filesystem.
  * The file includes functions that use the
